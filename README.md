@@ -9,3 +9,5 @@ R决策树实例
 
 C50使用的入门教程:
 [DECISION TREES IN R USING THE C50 PACKAGE](http://connor-johnson.com/2014/08/29/decision-trees-in-r-using-the-c50-package/)
+关于经常会被作为参数的Formula
+[R笔记（1）：formula和Formula](http://site.douban.com/182577/widget/notes/10567181/note/318916395/)
