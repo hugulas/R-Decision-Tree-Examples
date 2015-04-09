@@ -6,4 +6,6 @@ R决策树实例
 - UCI的[Covertype](http://archive.ics.uci.edu/ml/datasets/Covertype) 用于性能测试
 
 感谢UCI Machine Learning为数据分析学习提供的这个数据库.
+
+C50使用的入门教程:
 [DECISION TREES IN R USING THE C50 PACKAGE](http://connor-johnson.com/2014/08/29/decision-trees-in-r-using-the-c50-package/)
